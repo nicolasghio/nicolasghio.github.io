@@ -14,7 +14,7 @@ I am currently a second-year Ph.D. student at [Sciences Po](https://www.sciences
 
 Prior entering the Ph.D. I worked as a research data analyst for Pr. [Jesse Rothstein](http://eml.berkeley.edu/~jrothst/) (UC Berkeley). and as a junior economist at Institut des Politiques Publiques (PSE / CREST) in Paris. You can also find my resume [here](https://nicolasghio.github.io/cv/). 
 
-![Book logo](/images/profile.jpg)
+<img src="https://nicolasghio.github.io/images/profile.jpg" width="400" height="790">
 
 Contact
 ======
