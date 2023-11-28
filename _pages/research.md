@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Policy
-permalink: /publications/
+title: Research
+permalink: /research/
 ---
