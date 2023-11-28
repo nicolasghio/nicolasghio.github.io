@@ -2,7 +2,7 @@
 title: "Impact of the crisis and the 2020-2021 budget measures on firms (with Laurent Bach, Arthur Guillouzouic & Clément Malgouyres)"
 collection: talks
 type: "Policy Brief"
-permalink: /talks/policy2
+permalink: /talks/policy-2
 venue: "Annual conference of the Institut des Politiques Publiques"
 date: 2020-11-11
 location: ""
