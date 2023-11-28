@@ -22,10 +22,7 @@ redirect_from:
 <h2>Contact</h2>
 <p>
     Nicolas GHIO
-    <br>
     Sciences Po Paris
   28 Rue des Saint Pères
-
 Paris, 75007
-
 </p>
