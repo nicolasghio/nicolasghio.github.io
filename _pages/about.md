@@ -24,7 +24,6 @@ Welcome!
     </p>
 
     <img src="https://nicolasghio.github.io/images/profile2.jpg" width="700" height="400">
-</div>
 
 <h2>Contact</h2>
 <p>
