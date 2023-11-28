@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Policy"
-    url: /navigation/    
+#  - title: "Policy"
+#    url: /navigation/    
 
   - title: "Teaching"
     url: /teaching/    
