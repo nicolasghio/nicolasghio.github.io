@@ -2,7 +2,7 @@
 ---
 title: "Will French companies be able to repay their state-backed loans (PGEs)? (with Laurent Bach, Arthur Guillouzouic and Clément Malgouyres)"
 collection: talks
-type: ""
+type: "Policy Brief"
 permalink: /talks/policy1
 venue: "IPP Policy Brief n°40"
 date: 2022-03-01
