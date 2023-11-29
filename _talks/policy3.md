@@ -1,4 +1,3 @@
-
 ---
 title: "Micro-econometric evaluation of the THD Plan (Fast-Speed Internet) (with Paul Dutronc-Postel, Arthur Guillouzouic, Clément Malgouyres)" 
 collection: talks 
