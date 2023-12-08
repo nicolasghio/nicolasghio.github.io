@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <div style="text-align: justify; width: 700px;">
     <p>
  <h1>Welcome!</h1>  
