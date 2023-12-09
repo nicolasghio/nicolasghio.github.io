@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nicolas Ghio"
-  avatar           : "profile.jpg"
+  avatar           : ""
   bio              : "Second-Year Ph.D. at Sciences Po"
   location         : "Sciences Po"
   employer         :
