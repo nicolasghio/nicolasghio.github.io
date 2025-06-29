@@ -19,6 +19,6 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url:  https://github.com/nicolasghio/nicolasghio.github.io/files/Resume_GHIO_research.pdf
+    url:  /files/Resume_GHIO_research.pdf
     
 
