@@ -12,7 +12,7 @@ redirect_from:
     <p>
  <h1>Welcome!</h1>  
     <p>
-        I am currently a third-year Ph.D. student at <a href="https://www.sciencespo.fr/department-economics/en/researcher/nicolas-ghio.html">Sciences Po</a>, working under the supervision of <a href="https://sites.google.com/site/pierrecahuc/">Pierre Cahuc</a>. My research areas include labor economics, and especially labor supply and active labor market policies. 
+        I am currently a four-year Ph.D. candidate at <a href="https://www.sciencespo.fr/department-economics/en/researcher/nicolas-ghio.html">Sciences Po</a>, working under the supervision of <a href="https://sites.google.com/site/pierrecahuc/">Pierre Cahuc</a>. My research areas include labor economics, and especially labor supply and active labor market policies. 
     </p>
     <p>
         I am affiliated with the research center of the French Ministry of Work, <a href="https://dares.travail-emploi.gouv.fr">DARES</a>, with the <a href="https://www.chaire-securisation.fr">Sécurisation des Parcours Professionels Chair</a> and with <a href="https://www.sciencespo.fr/liepp/fr/">LIEPP</a>. I also benefit from the guidance and expertise of <a href="http://clairemontialoux.com">Claire Montialoux</a> and <a href="https://sites.google.com/site/fereyantoine">Antoine Ferey</a> as members of my thesis committee. You can also find more of my research <a href="https://nicolasghio.github.io/research/">here</a>.
